@@ -18,7 +18,7 @@
 
 - 🏢 I'm a Computer Sciences student at the faculty of Computer and Information Sciences - KFS University. 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, C++.
+- 💬 Ask me about my experience with C#, C++,Sql database.
 - ⚡ Fun Fact: "I enjoy long walks on Winter nights."
 
 
